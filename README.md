@@ -2,6 +2,9 @@
 
 A desktop/mobile AR application that lets users practice real-world social interactions with a realistic AI companion using voice.
 
+Check it out on devpost:
+https://devpost.com/software/parsar
+
 ---
 
 ## Problem
