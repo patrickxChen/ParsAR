@@ -1,0 +1,15 @@
+﻿<Solution>
+  <Project Path="ReadyPlayerMe.Core.Editor.csproj" />
+  <Project Path="ReadyPlayerMe.Samples.AvatarLoading.csproj" />
+  <Project Path="ReadyPlayerMe.Core.csproj" />
+  <Project Path="ReadyPlayerMe.AvatarCreator.csproj" />
+  <Project Path="ReadyPlayerMe.Samples.AvatarCreatorElements.csproj" />
+  <Project Path="ReadyPlayerMe.Samples.WebGLSample.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="ReadyPlayerMe.Samples.AvatarCreatorWizard.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="ReadyPlayerMe.Samples.QuickStart.csproj" />
+  <Project Path="ReadyPlayerMe.Samples.AvatarRenders.csproj" />
+  <Project Path="ReadyPlayerMe.AvatarCreator.Editor.csproj" />
+  <Project Path="ReadyPlayerMe.Core.WebGLSample.Editor.csproj" />
+</Solution>
