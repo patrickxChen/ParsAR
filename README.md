@@ -5,7 +5,7 @@ A desktop/mobile AR application that lets users practice real-world social inter
 Check it out on devpost:
 https://devpost.com/software/parsar
 
-![Demo Screenshot](https://i.imgur.com/x2P07RN.png)
+![AR Social Practice Companion Demo](https://i.imgur.com/iycx5oT.png)
 
 ---
 
